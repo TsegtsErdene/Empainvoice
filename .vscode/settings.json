@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/64309bc9-1ed0-4f3d-a046-2e1f4745c627/resourceGroups/EmpaInvoice/providers/Microsoft.Web/sites/EmpaInvoice",
+    "appService.deploySubpath": "."
+}
